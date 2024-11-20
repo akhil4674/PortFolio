@@ -1,0 +1,27 @@
+{
+    "name": "Akhil Kumar",
+    "bio": " Outside the lab, you ll find me geeking out over the latest tech trends, experimenting with new recipes (because science belongs in the kitchen too!), or hiking trails to recharge my creativity.  My ultimate goal? To build smart systems that not only solve complex problems but also make life a little more awesome for everyone.            I m diving deep into the fascinating world of Sensor Systems Technology, building on my solid foundation in VLSI Design and machine learning. By night, youll probably find me at the gym, lifting weights and crunching out reps—because building systems isn t the only thing I like to strengthen! Developing and implementing machine learning algorithms and data analysis techniques to optimize manufacturing processes and identify defects (Robert Bosch GmbH).Streamlining IT and robotics services for smoother integration and deployment of machine learning models (Autonomous Learning Robots). Designing and refining ROS packages for advanced robot simulations and behavior prediction (Forschungszentrum Informatik). Developing web applications and machine learning models for practical applications (personal projects). ",
+    "education": [
+      {
+        "institution": "Karlsruhe University of Applied Sciences",
+        "degree": ["Masters Degree in Sensor Systems Technology", "Masters Degree in VLSI Design"],
+        "duration": "2022 - 2025"
+      }
+    ],
+    "work_experience": [
+      {
+        "company": ["Robert Bosch GmbH","Forschungszentrum Informatik","Autonomous Learning Robots (ALR) Lab"],
+        "position": ["Intern","Working Student", "Research assistant"],
+        "duration": "2022-2024",
+        "brief_description": "Short description of your role."
+      }
+    ],
+    "skills": ["Python", "React", "Machine Learning", "Cloud Computing", "VLSI Design", "Signal Processing", "VHDL", "Verilog"],
+    "interests": ["Weight Lifting", "Hiking", "Football", "Music" , "Movies", "Formula 1"],
+    "contact": {
+      "email": "heyakhil0@gmail.com",
+      "linkedin": "URL",
+      "github": "https://github.com/akhil4674"
+    }
+  }
+  
